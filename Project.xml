@@ -6,6 +6,12 @@
       <ditaval href="filter.ditaval"/>
     </profile>
   </context>
+  <context name="User's Guide Filtered" id="ug_filtered">
+    <input href="Map.ditamap"/>
+    <profile>
+      <ditaval href="filter2.ditaval"/>
+    </profile>
+  </context>
   
   <deliverable name="User's Guide to HTML5" id="ug_html5">
     <context idref="ug_filtered"/>
