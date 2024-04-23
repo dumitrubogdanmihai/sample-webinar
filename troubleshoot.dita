@@ -4,6 +4,6 @@
     <title>How to troubleshoot issue</title>
     <body>
         <p>A</p>
-        <p>b</p>
+        <p audience="novice">b</p>
     </body>
 </topic>
