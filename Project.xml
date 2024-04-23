@@ -3,13 +3,13 @@
   <context name="User's Guide Filtered" id="ug_filtered">
     <input href="Map.ditamap"/>
     <profile>
-      <ditaval href="filter.ditaval"/>
+      <ditaval href="Filter.ditaval"/>
     </profile>
   </context>
   <context name="User's Guide Filtered" id="ug_filtered">
     <input href="Map.ditamap"/>
     <profile>
-      <ditaval href="filter2.ditaval"/>
+      <ditaval href="Filter2.ditaval"/>
     </profile>
   </context>
   
