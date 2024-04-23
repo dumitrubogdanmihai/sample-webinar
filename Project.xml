@@ -6,7 +6,7 @@
       <ditaval href="Filter.ditaval"/>
     </profile>
   </context>
-  <context name="User's Guide Filtered" id="ug_filtered">
+  <context name="User's Guide Filtered expert" id="ug_filtered2">
     <input href="Map.ditamap"/>
     <profile>
       <ditaval href="Filter2.ditaval"/>
