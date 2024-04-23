@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="https://www.dita-ot.org/project">
   <context name="User's Guide Filtered" id="ug_filtered">
-    <input href="userguide.ditamap"/>
+    <input href="Map.ditamap"/>
     <profile>
       <ditaval href="filter.ditaval"/>
     </profile>
